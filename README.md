@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas!  
+Bem-vindo ao meu perfil no GitHub 🚀  
 
-<!--
-**lufloat/lufloat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 Sobre mim  
+Sou estudante de **Engenharia de Software** e estou começando minha jornada no mundo da programação.  
+Tenho interesse em *desenvolvimento web*, *tecnologias inovadoras* e *aprendizado contínuo*.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Minhas Habilidades  
+- JavaScript (básico)  
+- Python (básico)  
+- Git e GitHub  
+
+---
+
+## 🌱 O que estou aprendendo  
+- Conceitos de **Desenvolvimento Web**  
+- Programação com **JavaScript**  
+- Melhores práticas com **Git** e **GitHub**  
+
+---
+
+## 📫 Como me encontrar  
+Entre em contato comigo pelo GitHub ou envie uma mensagem!  
+
+---
+
+✨ Este é apenas o começo da minha jornada no mundo da programação! ✨
